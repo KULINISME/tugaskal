@@ -11,6 +11,7 @@ kernelspec:
   language: python
   name: python3
 ---
+
 # Penyelesaian Sistem Persamaan Linier (SPL) menggunakan Eliminasi Gaussian
 
 ## A. Sistem Persamaan Linear Tiga Variabel
