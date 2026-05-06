@@ -182,3 +182,5 @@ $$
 0
 \end{bmatrix}
 $$
+
+Jadi
